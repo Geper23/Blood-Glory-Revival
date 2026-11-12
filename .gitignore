@@ -1,0 +1,22 @@
+# Proprietary game and local export files
+*.apk
+*.obb
+*.xapk
+*.apks
+*.aab
+*.zip
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+*.pem
+*.crt
+EXPORTS/
+LOGS/
+BACKUPS/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
